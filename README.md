@@ -1,4 +1,4 @@
-# 🏗️ EXP-12: Constructors and Destructors in C++
+# 🏗️ EXP-12: Constructors and Destructors in Cpp
 
 ## 🎯 Aim
 
